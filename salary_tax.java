@@ -10,7 +10,7 @@ Net = gross - tax.*/
 // import java.nio.channels.ScatteringByteChannel;
 import java.util.Scanner;
 
-public class SalaryMgmt {
+public class salary_tax {
 
     /* FUCNTION TO CALCLUATE HRA */
     static double HRA(double bs) {
